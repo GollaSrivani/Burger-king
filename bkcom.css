@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+    box-sizing: border-box;
+}
+body{
+    background-color:  rgb(248 241 231);
+}
+table{
+    margin: auto;
+}
+#page{
+    width: 450px;
+   border: solid;
+    border-radius: 1px;
+    padding: 40px;
+    margin:  auto;
+    text-transform: capitalize;
+   border: none;
+ 
+}
+#order,#fa-solid fa-bag-shopping{
+    width: 100%;
+    border-radius: 20px;
+    padding: 10px;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 1rem;
+   background-color: rgb(214 35 0);
+   border: none;
+   color: #502314;
+
+}
+#Delivary,#fa-solid fa-person-biking{
+
+        width: 100%;
+        border-radius: 20px;
+        padding: 10px;
+        font-family: 'Times New Roman', Times, serif;
+        border: solid #502314;
+        background-color: rgb(248 241 231);
+        color: #502314;
+}
+.img1{
+           
+    width: 450px;
+    border: solid;
+    border-radius: 8px;  
+    margin-right:20px ;
+    border: none;
+    margin-bottom: 10px;
+    background-color: white;
+    
+}
+.para{
+    width: 100%;
+    border: solid;
+    padding:10px 15px 10px ;
+    border: none;
+}
+img{
+    width: 100%;
+    border-radius: 8px 8px 0px 0px;
+}
+.demo{
+    border: solid #502314;
+   border-radius: 20px ;
+     padding: 10px;
+     margin-left: 300px;
+     color: #502314;
+     background-color: white;
+   
+}
+.demo1{
+    border: solid #502314;
+    border-radius: 20px ;
+     margin-left: 250px;
+     color: #502314;
+     background-color: white;
+     padding:10px;
+
+}
+.img2{
+    width: 450px;
+    border: solid;
+    border-radius: 8px;  
+    margin-right:20px ;
+    border: none;
+   
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+h3,p,a,h2{
+    color: #502314;
+}
+h2{
+    text-align: center;
+   
+}
+
+
+#footer #foot{
+    display: inline-block;
+    width: 30px;
+    border: solid;
+   height: 30px;
+    margin-left: 200px;
+    border: none;
+     font-size: 17px;
+     color: #502314;
+}
+#nav{
+    margin-top: 20px;
+   border: solid;
+   border: none;
+   display: block;
+   bottom: 10px;
+  position: fixed;
+  top: 0px;
+  z-index: 1;
+ 
+}
+#person,#menu,.head,#class{
+    margin-left: 220px;
+    color: #502314;
+    width: 30px;
+    
+
+}
+span{
+    text-align: center;
+  font-size: 1.8rem;
+}
+button{
+    border-radius: 20px;
+    padding: 10px 40px;
+    background-color:rgb(214 35 0) ;
+    color: white;
+    border: none;
+}
